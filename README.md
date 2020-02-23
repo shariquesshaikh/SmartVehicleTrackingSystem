@@ -1,6 +1,6 @@
 # LOC_2.0
 
-(Link to Chat Room for authorized police officers: http://crime-chat.epizy.com/)
+(Link to Chat Room for authorized police officers: http://www.crime-chat.epizy.com/)
 
 Smart Criminal Recognition System (Veresys)
 
