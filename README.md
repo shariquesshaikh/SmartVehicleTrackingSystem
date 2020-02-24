@@ -1,8 +1,8 @@
+# Smart Vehicle Recognition and Tracking System (Veresys)
+
 Prototype: http://veresys.000webhostapp.com
 
 Link to Chat Room for authorized police officers: http://www.crime-chat.epizy.com/
-
-Criminal Vehicle Recognition System (Veresys)
 
 With the advent of digital monitoring technology, it has become easier to track and gather details of scenes and culprits of any potential crimes. CCTV cameras have been widely and effectively used to gather evidence for these crimes. However, there still lacks an effective system to track down vehicles that commit any of these crimes which can thus automate the process of tracking down suspected vehicles and reduce police labour. 
 
